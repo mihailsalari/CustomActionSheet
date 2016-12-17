@@ -22,6 +22,7 @@ Custom ActionSheet
 * ConstraintsWithFormat
 * UIView, UIWindow
 * Animation .curveEaseOut
+* UICollectionView
 
 
 ## Bug Reports & Feature Requests
